@@ -1,0 +1,78 @@
+<p style='text-align: center; border: 2px solid black;'>Bacon ipsum dolor amet hamburger boudin cow leberkas, bresaola flank shank chicken ham
+
+meatball tail landjaeger. Jowl landjaeger swine, kevin kielbasa short loin brisket ribeye buffalo.
+
+Burgdoggen ground round picanha tri-tip buffalo. T-bone prosciutto rump ball tip, pig swine hamburger
+
+drumstick leberkas hamburger strip steak alcatra tenderloin meatball boudin brisket.</p>
+
+text-shadow: 2px 2px white;
+
+text-decoration: underline overline;
+
+transform: rotate(10deg);
+
+box-shadow: 20px 20px 10px grey;
+
+
+
+https://youtu.be/B7YnqrveqXw
+
+filter: hue-rotate(90deg);
+
+ix-blend-mode: difference;
+
+opacity: 0.7;
+
+rgba(157,232,171,1.00)
+
+text-shadow:
+    /* Outline */
+    -1px -1px 0 #000000,
+    1px -1px 0 #000000,
+    -1px 1px 0 #000000,
+    1px 1px 0 #000000,  
+    -2px 0 0 #000000,
+    2px 0 0 #000000,
+    0 2px 0 #000000,
+    0 -2px 0 #000000;
+
+background: linear-gradient(blue, pink);
+
+1659
+
+letter-spacing: 2px;
+ outline-style: outset;
+  outline-width: 5px;
+  outline-color: #13A563;
+  text-shadow: .3px .3px 1px rgba(255,255,255,0.80);
+
+    <div class="link-button-wrapper link-left">
+                    <div class="embedded-link-wrapper widescreen-aspect-ratio">
+                      <iframe class="link-button "src="https://www.youtube.com/embed/B7YnqrveqXwautoplay=1&mute=1" frameborder="10" data-href="https://www.youtube.com/watch?v=B7YnqrveqXw&ab_channel=CNBCTelevision"></iframe>
+
+
+ <div class="caption ">NOTES OF SOMETHING</div>
+                </div>
+
+ border-radius: 10%;
+
+border: 12px solid #555
+
+<transform:rotate(10deg);></transform:>
+				 <box-shadow: 11px 20px 10px grey;></box-shadow:>
+
+ <div class="section-background-image" style="background-position: center; box-shadow: 11px 20px 20px rgba(0,0,0,0.89)"><a class="background-image-placeholder-link" href="images/extant data.png" data-image-width="300o" data-image-height="300"></a></div>
+
+
+<audio controls autoplay mute>
+  <source src="audio/Interview.mp3" type="audio/mpeg">
+</audio>
+
+<audio autoplay src="audio/38 Water.mp4" type="audio/mpeg"></audio>
+
+<audio autoplay src="audio/38 Water3.mp3" type="audio/mpeg"></audio>
+
+<div role=audio
+
+
